@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+
+html {
+  scroll-padding-top: 80px;
+}
+
+.bg-small {
+  background-image: url('/background/bg2.svg');
+}
+
+.card {
+  /* background: rgba( 255, 255, 255, 0 ); */
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  /* border: 1px solid rgba( 255, 255, 255, 0.18 ); */
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  color: white;
+  background: #097030d0;
+}
+
+::selection {
+  color: white;
+  background: #097030d0;
+}
+
+::-webkit-scrollbar {
+  background-color: #f1f1f1;
+  /* Change background color */
+  width: 8px;
+  /* Set width of scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #097030d0;
+  /* Change color of scrollbar thumb */
+  border-radius: 1px;
+  /* Make scrollbar thumb curved */
+}
