@@ -35,6 +35,6 @@ export const project_data = [
             "I created a Library Management System using Java, NetBeans, and MySQL. It's like having a virtual librarian to keep track of books, users, and lending activities. With a user-friendly interface designed in NetBeans, navigating through the system feels intuitive and smooth. Behind the scenes, MySQL ensures that all library data is safely stored and easily accessible. ",
         badges: ["JAVA", "MySql", "Netbeans"],
         github: "https://github.com/amitrajstm",
-        live: "https://github.com/theavnishkumar/LibraryManagement",
+        live: "https://github.com/amitrajstm",
     },
 ];
