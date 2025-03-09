@@ -1,5 +1,15 @@
 export const project_data = [
     {
+        title: "Wanderlust Travels",
+        image: "Wanderlust-Travels.png",
+        description:
+            "Wanderlust Travels offers an interactive online portal where travelers can quickly secure memorable journeys. Here, travel agencies present their curated travel packages by sharing comprehensive details—including destination highlights, carefully planned itineraries, clear pricing, and captivating photos. Travelers have a designated window during which they can finalize their bookings; once that period ends, the reservation is confirmed. The platform also features a seamless user registration process, an archive of past bookings, and live countdown timers for each travel offer.",
+        badges: ["JavaScript", "MongoDB", "Node.js", "Bootstrap css", "Express js"],
+        github:
+            "https://github.com/amitrajstm/Wanderlust.git",
+        live: "https://wanderlust-stm.onrender.com",
+    },
+    {
         title: "Online Auction System",
         image: "online-auction.png",
         description:
