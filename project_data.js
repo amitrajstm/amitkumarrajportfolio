@@ -17,7 +17,7 @@ export const project_data = [
         badges: ["React js", "Tailwind css", "Express js", "MongoDB", "Redux"],
         github:
             "https://github.com/amitrajstm",
-        live: "https://auction.kipa.me",
+        live: "https://kipa-auction-stm.onrender.com/auction",
     },
     {
         title: "Personal Finance Management App",
