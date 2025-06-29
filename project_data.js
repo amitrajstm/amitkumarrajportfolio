@@ -39,6 +39,15 @@ export const project_data = [
         live: "https://url.ihavetech.com",
     },
     {
+        title: "The Weather Forecasting",
+        image: "WratherApp.jpg",
+        description:
+            "The Weather Forecasting app provides real-time weather updates and forecasts for any location worldwide. Users can search for cities to get current temperature, humidity, wind speed, and detailed forecasts. The app features a clean interface and leverages weather APIs to deliver accurate information in an easy-to-understand format.",
+        badges: ["React js", "Tailwind css", "Weather API"],
+        github: "https://github.com/amitrajstm",
+        live: "https://weather-forecasting-stm.vercel.app/",
+    },
+    {
         title: "Library Management System",
         image: "java.png",
         description:
