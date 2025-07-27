@@ -11,7 +11,7 @@ import bgImg from "../public/hero/bg.png";
 
 const Hero = () => {
   const handleDownloadResume = () => {
-    const resumeUrl = "/resume/Amit_Kumar_Raj_Resume.pdf";
+    const resumeUrl = "/Amit_Kumar_Raj_Resume.pdf";
     window.open(resumeUrl, "_blank");
   };
   return (
