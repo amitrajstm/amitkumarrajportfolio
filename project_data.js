@@ -1,12 +1,12 @@
 export const project_data = [
     {
     title: "StudyNotion E-Learning Platform",
-    image: "StudyNotion.png",
+    image: "study-notion-Home.png",
     description:
         "StudyNotion is a dynamic online learning platform designed to bridge the gap between students and instructors. It allows educators to design, upload, and manage courses with ease, while learners can browse, enroll, and track their progress seamlessly. The platform includes secure authentication, personalized dashboards for students and teachers, integrated payment handling for course purchases, and efficient content delivery through an intuitive UI. With a structured course management system and progress tracking, StudyNotion ensures an engaging and professional e-learning experience.",
     badges: ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
     github:
-        "https://github.com/amitrajstm/study-notion-Home.git",
+        "https://github.com/amitrajstm/Study-Notion-Learnhub",
     live: "https://study-notion-stm.vercel.app",
 },
 {
