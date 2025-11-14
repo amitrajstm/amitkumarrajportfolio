@@ -42,29 +42,29 @@ export const project_data = [
     },
     {
     title: "Bharath Chats",
-    image: "https://github.com/amitrajstm/amitkumarrajportfolio/blob/main/public/projects/BharathChat.png",
+    image: "BharathChat.png",
     description:
         "Bharath Chats is a real-time communication web app that brings messaging and video calling into a single place. It offers quick one-to-one chats, smooth video calls, and live updates without page reloads. The layout is simple to move around, and everything responds instantly because of socket-based communication. It’s built to feel natural to use, even during long conversations.",
-    badges: ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS" ,"Socket.io"],
+    badges: ["React.js","TailwindCSS","Express.js", "MongoDB","Redux","Socket.io"],
     github: "https://github.com/amitrajstm/Bharat_Chat_Application",
     live: "https://bharat-chat-stm.vercel.app/dashboard",
 },
 
    {
     title: "BrainSpark Quizz",
-    image: "https://github.com/amitrajstm/amitkumarrajportfolio/blob/main/public/projects/BrainSpark.png",
+    image: "BrainSpark.png",
     description:
         "BrainSpark Quizz is a simple and fast quiz platform built for anyone who enjoys learning through short and focused questions. The site includes multiple topics, quick navigation, and clean score tracking so users can jump into a quiz without any confusion. The interface is lightweight, and each quiz loads instantly, making it easy to practise or test your knowledge anytime.",
-    badges: ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
+    badges: ["React js", "Tailwind css", "Express js", "MongoDB", "Redux"],
     github: "https://github.com/amitrajstm/brainspark-platform-quizz",
     live: "https://brainspark-stm.vercel.app/",
 },
     {
     title: "YDown - YouTube Video Downloader",
-    image: "https://raw.githubusercontent.com/amitrajstm/Download-YouTube-Videos-Audio/main/fronted/public/homepage.png",
+    image: "homepage.png",
     description:
         "YDown is a straightforward tool that lets users download YouTube videos or extract audio without any complicated steps. The page loads quickly, the input flow is simple, and the output is delivered in a clean format. It’s built with a focus on ease of use, so anyone can grab the media they need with just a link and a click.",
-    badges: ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
+    badges: ["React js", "Tailwind css", "Express js", "MongoDB"],
     github: "https://github.com/amitrajstm/Download-YouTube-Videos-Audio",
     live: "https://download-you-tube-videos-audio.vercel.app/",
 },
