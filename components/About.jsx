@@ -127,7 +127,7 @@ const About = () => {
             <section className="flex items-center gap-4 mt-3">
               {/* Linkedin */}
               <a
-                href="https://www.linkedin.com/in/amitkumarraj1/"
+                href="https://www.linkedin.com/in/amitkumarraj-stm/"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="Goto my linkedin profile"
