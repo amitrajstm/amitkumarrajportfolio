@@ -164,7 +164,7 @@ const About = () => {
             </section>
             {/* Buttons */}
             <section className="flex gap-4">
-              <Link href="rajamitstm@gmail.com">
+              <Link href="mailto:rajamitstm@gmail.com">
               <button
                 className="flex items-center px-3 py-2 bg-emerald-700 hover:bg-emerald-800  rounded-md text-white outline-none focus:ring-1 shadow-lg transform active:scale-y-90 transition-transform"
                 aria-label="Contact Button"
