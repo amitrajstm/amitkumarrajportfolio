@@ -36,7 +36,7 @@ export const EmailTemplate = ({ messageData, name, email }) => (
         <p style={{ fontSize: "0.875rem", color: "#6c757d" }}>Amit Kumar Raj</p> */}
       </section>
       <p style={{ textAlign: "center", color: "#6c757d" }}>
-        © 2024 Amit Kumar Raj. All rights reserved.
+        © 2026 Amit Kumar Raj. All rights reserved.
       </p>
     </section>
   </section>
@@ -80,7 +80,7 @@ export const EmailTemplate2 = ({ name }) => (
         </a>
       </section>
       <p style={{ textAlign: "center", color: "#6c757d" }}>
-        © 2024 Amit Kumar Raj. All rights reserved.
+        © 2026 Amit Kumar Raj. All rights reserved.
       </p>
     </section>
   </section>
