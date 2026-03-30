@@ -63,7 +63,7 @@ export const project_data = [
     title: "EcoNexus - Powering The Future Through Green Innovation",
     image: "EcoNexus2.png",
     description:
-      "EcoNexus is a green innovation platform that empowers users to submit sustainability-focused ideas and receive AI-driven evaluations for feasibility and impact. It connects individuals with institutions and organizations to foster collaboration and turn innovative concepts into real-world solutions. Designed for scalability and ease of use, EcoNexus helps transform environmental ideas into measurable and meaningful outcomes.",
+      "EcoNexus is a green innovation platform where users submit sustainability ideas, get AI-driven evaluations, and collaborate with institutions to turn concepts into real-world impact.",
     badges: ["React js", "Tailwind css", "Node js", "MongoDB", "AI Integration"],
     github: "https://github.com/amitrajstm/eco-innovation-platform",
     live: "https://econexus-stm.vercel.app/",
