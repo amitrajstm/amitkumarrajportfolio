@@ -60,14 +60,13 @@ export const project_data = [
     live: "https://brainspark-stm.vercel.app/",
 },
     {
-    title: "YDown - YouTube Video Downloader",
-    image: "homepage.png",
+    title: "EcoNexus - Powering The Future Through Green Innovation",
+    image: "EcoNexus2.png",
     description:
-        "YDown is a straightforward tool that lets users download YouTube videos or extract audio without any complicated steps. The page loads quickly, the input flow is simple, and the output is delivered in a clean format. It’s built with a focus on ease of use, so anyone can grab the media they need with just a link and a click.",
-    badges: ["React js", "Tailwind css", "Express js", "MongoDB"],
-    github: "https://github.com/amitrajstm/Download-YouTube-Videos-Audio",
-    live: "https://download-you-tube-videos-audio.vercel.app/",
+        "EcoNexus is a sustainability-driven platform designed to turn innovative green ideas into real-world impact. Users can submit eco-friendly solutions and receive AI-driven evaluations to assess feasibility, efficiency, and environmental benefits. The platform also enables collaboration with institutions and organizations, creating a bridge between ideas and execution. Built with a focus on innovation and scalability, EcoNexus empowers individuals and communities to contribute toward a smarter, greener future.",
+    badges: ["React js", "Tailwind css", "Node js", "MongoDB", "AI Integration"],
+    github: "https://github.com/amitrajstm/eco-innovation-platform",
+    live: "https://econexus-stm.vercel.app/",
 },
-
 
 ];
