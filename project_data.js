@@ -5,7 +5,7 @@ export const project_data = [
     description:
         "A real-time scrap marketplace connecting users with local mechanics to sell items like AC, fridge, battery, and more. Features include live price negotiation, role-based dashboards, secure authentication, and a modern responsive UI.",
     badges: ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Socket.io", "Redux"],
-    github: "https://github.com/amitrajstm/kabadiking",
+    github: "https://github.com/amitrajstm",
     live: "https://www.kabadiking.in",
 },
 {
@@ -15,7 +15,7 @@ export const project_data = [
         "StudyNotion is a dynamic online learning platform designed to bridge the gap between students and instructors. It allows educators to design, upload, and manage courses with ease, while learners can browse, enroll, and track their progress seamlessly. The platform includes secure authentication, personalized dashboards for students and teachers, integrated payment handling for course purchases, and efficient content delivery through an intuitive UI. With a structured course management system and progress tracking, StudyNotion ensures an engaging and professional e-learning experience.",
     badges: ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
     github:
-        "https://github.com/amitrajstm/Study-Notion-Learnhub",
+        "https://github.com/amitrajstm",
     live: "https://study-notion-stm.vercel.app",
 },
 {
