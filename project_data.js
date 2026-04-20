@@ -1,5 +1,14 @@
 export const project_data = [
     {
+    title: "KabadiKing Scrap Marketplace",
+    image: "kabadiking.png",
+    description:
+        "KabadiKing is a smart scrap marketplace platform designed to connect users with local mechanics for selling and servicing items like ACs, refrigerators, batteries, inverters, and more. The platform enables users to post items with images and location, while mechanics can view assigned requests, negotiate prices in real-time, and complete deals efficiently. It features secure authentication with OTP and Google login, role-based dashboards (User, Mechanic, Admin), live price updates using Socket.io, and a modern responsive UI. With built-in notifications, ratings, subscription models for mechanics, and admin controls, KabadiKing delivers a seamless, transparent, and eco-friendly digital solution for scrap management.",
+    badges: ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Socket.io"],
+    github: "https://github.com/amitrajstm/kabadiking",
+    live: "https://www.kabadiking.in",
+},
+{
     title: "StudyNotion E-Learning Platform",
     image: "study-notion-Home.png",
     description:
