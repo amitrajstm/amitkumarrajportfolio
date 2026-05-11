@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { FaExternalLinkAlt, FaHome } from "react-icons/fa";
+import { IoCall } from "react-icons/io5";
 import { FaLocationDot } from "react-icons/fa6";
 import { IoIosMail } from "react-icons/io";
 
@@ -89,6 +90,12 @@ const Footer = () => {
               <IoIosMail className="text-xl" />
               <Link href="mailto:rajamitstm@gmail.com">
                 rajamitstm@gmail.com
+              </Link>
+            </span>
+            <span className="flex gap-2 items-center">
+              <IoCall className="text-xl" />
+              <Link href="tel:+917091132080">
+                +91-70911 32080
               </Link>
             </span>
           </section>
