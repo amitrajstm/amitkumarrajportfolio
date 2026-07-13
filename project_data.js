@@ -1,5 +1,41 @@
 export const project_data = [
     {
+    title: "Growavro Digital Agency",
+    image: "Growavro.png",
+    description:
+        "A modern digital agency platform helping businesses grow through website development, mobile apps, SEO, AI search optimization, ecommerce solutions, and business automation. Features include service pages, industry-specific solutions, project case studies, pricing plans, consultation booking, and a fully responsive user interface.",
+    badges: [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "Vercel",
+    ],
+    github: "https://github.com/amitrajstm/Growavro-Pvt.Ltd",
+    live: "https://growavro.vercel.app",
+    },
+    {
+    title: "CareerVexa AI Career Platform",
+    image: "careervexa_SS.png",
+    description:
+        "An AI-powered career platform designed to help job seekers create professional resumes, analyze resume performance, and measure compatibility with job descriptions. Features include an AI resume builder, ATS-focused resume analysis, job matching, personalized recommendations, secure authentication, and a modern responsive dashboard.",
+    badges: [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Node.js",
+        "MongoDB",
+        "AI Integration",
+        "Vercel",
+    ],
+    github: "https://github.com/amitrajstm/CareerVexa",
+    live: "https://careervexa.vercel.app",
+},
+    {
     title: "KabadiKing Scrap Marketplace",
     image: "kabadiking .png",
     description:
